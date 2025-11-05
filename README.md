@@ -18,8 +18,8 @@
    - Save and switch to the Sepolia Test Network.
 
 3. **Get Test ETH from Faucet**  
-   - Search on Google: `ETH Sepolia Faucet`  
-   - Example: https://sepoliafaucet.com/  
+   - Search on Google: `Google Faucet`  
+   - Example: [https://sepoliafaucet.com/](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)  
    - Paste your MetaMask wallet address and request tokens.  
    - Wait for the transaction to complete.
 
