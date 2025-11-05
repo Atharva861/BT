@@ -30,19 +30,18 @@
 
 5. **Compile the Contract**  
    - Open the Solidity Compiler tab.  
-   - Select compiler version `0.8.19`.  
+   - Select compiler version `0.8.20`.  
    - Enable “Auto Compile” or click “Compile BankAccount.sol”.
 
 6. **Deploy the Contract**  
    - Go to the “Deploy & Run Transactions” tab.  
-   - In the environment dropdown, select `Injected Provider - MetaMask`.  
+   - In the environment dropdown, select `Sepolia Testnet - MetaMask`.  
    - Make sure MetaMask is connected to the Sepolia Test Network.  
    - Click “Deploy” and confirm the transaction in MetaMask.
 
 7. **Test Contract Functions**  
    - After deployment, expand the deployed contract in Remix.  
-   - Test the following functions:
-     - `createAccount()` – Create a new account.  
+   - Test the following functions: 
      - `deposit()` – Deposit ETH into your account.  
      - `withdraw(uint amount)` – Withdraw specified ETH amount.  
      - `getBalance()` – Check your current account balance.
